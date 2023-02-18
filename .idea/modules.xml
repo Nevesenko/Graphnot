@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject1_GuGraphi.iml" filepath="$PROJECT_DIR$/.idea/pythonProject1_GuGraphi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Graphnot.iml" filepath="$PROJECT_DIR$/.idea/Graphnot.iml" />
     </modules>
   </component>
 </project>
