@@ -12,6 +12,8 @@ root.geometry('650x530+270+300')
 #New class for NODE
 class Node(Label):
 
+
+
     def specify(self,  conn = []):   #for adding specific atributes of class
         self.id= random.randint(10,99)
         self.connections = []
@@ -55,7 +57,6 @@ if __name__ == "__main__":
     button_add = Button(root, width=15,height=3, text='Добавить\nузел',command=add_new_node)
     button_add.pack(side=LEFT)
     button_add.place(x=0,y=0)
-
 
     # Canvas
     canvas = Canvas(root, width=690, height=800, bg='#A98E94' )
