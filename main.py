@@ -62,8 +62,7 @@ if __name__ == "__main__":
     canvas = Canvas(root, width=690, height=800, bg='#A98E94' )
     canvas.pack()
     canvas.place(x=0, y=108)
-    a=Node(text="Hi")
-    print(a.cget("text"))
+    
 
     root.mainloop()
 
